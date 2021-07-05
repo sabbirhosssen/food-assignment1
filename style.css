@@ -1,0 +1,83 @@
+body{
+    font-family:'poppins', sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+/* food page first section 1 */
+.food-section1{
+display: flex;
+max-width: 100%;
+max-height: 100%;
+padding:7%;
+padding-top:0px;
+}
+h1{
+    font-size:50px;
+}
+
+.food-text-top-left{
+width: 40%;
+padding-top: 5%;
+margin-bottom:10px;
+
+}
+.color-span{
+    color: orange;
+}
+.food-link{
+    background-image: linear-gradient( rgb(255, 166, 0),rgba(255, 81, 0, 0.918));
+    border-radius: 30px;
+    padding:14px 40px;
+    margin-top:50px;
+    text-decoration: none;
+    color: white;
+
+
+}
+.food-image-top-right{
+   max-width: 40%;
+   max-height: 0%;
+   padding-left: 7%;
+
+
+}
+ /* end */
+
+ /* food page first section 2 */
+ .food-section2{
+     background-image: url(images/Frame\ 57.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     display: flex;
+     max-width: 100%;
+     max-height: 100%;
+
+ }
+ h2{
+     font-size: 25px;
+ }
+ .personal-image-left{
+     width: 40%;
+     padding: 5%;
+     padding-bottom: 0%;
+
+ }
+ .personal-image-left img{
+     width: 500px;
+     height: 600px;
+ }
+ .personal-text-right{
+     max-width: 40%;
+     padding: 7%;
+ }
+ .personal-link{
+    background-image: linear-gradient( rgb(255, 166, 0),rgba(255, 81, 0, 0.918));
+    border-radius: 30px;
+    padding:14px 40px;
+    margin-top:50px;
+    text-decoration: none;
+    color: white;
+ }
+ /* end */
+ /* food page first section 3 */
+             
