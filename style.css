@@ -80,4 +80,63 @@ margin-bottom:10px;
  }
  /* end */
  /* food page first section 3 */
-             
+ .food-section3{
+     padding:3% ;
+ }
+.recipies-text{
+    text-align: center;
+}
+ .food-recipice{
+     display:flex;
+ }
+ .food-box{
+     max-width: 25%;
+     margin: 4%;
+     padding: 2%;
+     border-radius:5% ;
+     background-color:white;
+     box-shadow: 2px 3px 10px 0 gray;
+ }
+ .food-box img{
+     max-width: 100%;
+     border-radius: 5%;
+ }
+ /* end */
+
+
+ 
+ /* food page follower */
+ .follower-sec{
+     background-color:white;
+     box-shadow: 2px 3px 10px 0 gray;
+     margin:6%;
+     display: flex;
+     border-radius: 10px;
+ }
+ .follower{
+     padding: 4%;
+     width: 30%;
+     text-align: center;
+ }
+/* end */
+
+
+
+ /* food page footer  */
+ h3{
+     font-size: 3opx;
+ }
+.style-footer{
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+.style-footer p{
+    color: rgb(207, 199, 199);
+
+}
+.color-span2{
+    color:grey;
+}       
+/* end */
